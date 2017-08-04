@@ -2,7 +2,7 @@ This is the Blender files loading module of the yoyEngine, an in house engine cr
 
 This module is heavily inspired by gamekit/ogrekit.
 
-We are sharing this code with the purpose of creating a plugin for Ogre that loads Blender files directly with the help of the community.
+We are sharing this code with the purpose of creating a plugin for Ogre that loads Blender files directly, with the help of the community.
 
 At this stage it need lots of work since its just a copy-paste of files from our engine and it wont compile.
 
